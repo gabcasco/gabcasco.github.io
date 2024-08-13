@@ -167,9 +167,9 @@ nav {
 
 .header__container h1 {
   margin-bottom: 2rem;
-  max-width: 600px;
-  font-size: 4rem;
-  font-weight: 600;
+  max-width: 400px;
+  font-size: 3.5rem;
+  font-weight: 400;
   line-height: 5rem;
   color: var(--white);
 }
